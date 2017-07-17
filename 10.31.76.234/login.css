@@ -1,0 +1,53 @@
+body {
+	background: url("background1.jpg");
+	background-size: cover;
+}
+
+#login_box {
+    background-color: #456575;
+    position: absolute;
+    top: 56vh;
+    left: 50vw;
+    width: 40vw;
+    height: 25vh;
+    margin-left: -22vw;
+    margin-top: -26vh;
+	font-family: 'Raleway', sans-serif;
+	padding: 8vh 2vw 8vh 2vw;
+}
+
+.textbox {
+	display: block;
+	padding: 2vh 1vw 2vh 9.5vh;
+	font-size: 2vh;
+	width: 30vw;
+	height: 8vh;
+	margin-left: 4.5vw;
+	border: 0px;
+	border-radius: 0px;
+	font-family: 'Raleway', sans-serif;
+	outline: none;
+	margin-bottom: 1vh;
+}
+
+#submitbutton {
+	margin-top: 1vh;
+	background-color: #F97766;
+	border-radius: 0px;
+	-webkit-border-radius: 0;
+	-webkit-appearance: none;
+	font-family: 'Raleway', sans-serif;
+	font-size: 3vh;
+	color: white;
+	display: block;
+	padding: 2vh 1vw 2vh 1vw;
+	font-size: 2vh;
+	width: 30vw;
+	height: 8vh;
+	margin-left: 4.5vw;
+	border: 0px;
+	border-radius: 0px;
+	font-family: 'Raleway', sans-serif;
+	outline: none;
+	margin-bottom: 1vh;
+}
